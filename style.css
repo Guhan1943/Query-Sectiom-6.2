@@ -1,0 +1,21 @@
+.section{
+    padding: 100px;
+}
+.container{
+    padding: 40px;
+    border: 2px black solid;
+}
+.row1{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.row2{
+    opacity: 0.5;
+    
+    border-bottom: 2px rgba(0, 0, 0, 0.181) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row2:hover{
+    opacity: 1;
+}
